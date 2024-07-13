@@ -1,0 +1,4 @@
+windshield
+bumbper
+door handle
+
