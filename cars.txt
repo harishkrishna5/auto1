@@ -5,3 +5,4 @@ volvo
 bmw
 audi
 benz
+skoda
